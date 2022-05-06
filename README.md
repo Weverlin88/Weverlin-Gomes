@@ -1,6 +1,6 @@
 # Weverlin-Gomes
 ## Apresentação:
-Olá 🖐️, meu nome é **Weverlin Gomes assis**, tenho 34 anos e sou de Belo Horizonte, Minas Gerais.
+Olá 🖐️, meu nome é **Weverlin Gomes Assis**, tenho 34 anos e sou de Belo Horizonte, Minas Gerais.
 Atualmente sou barman 🍻 🍹 🍷 eu um restaurante e começei a estudar programação ha 1 mês aproximadamente.
 Estou beeem no inicio de tudo ainda 👶 mas estou adorando tudo que tenho aprendido.
 Pretendo me dedicar bastante e ser um bom Dev daqui uns tempos 🙏.
